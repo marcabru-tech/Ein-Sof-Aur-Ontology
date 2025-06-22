@@ -1,0 +1,54 @@
+# Arquivos temporários de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos temporários de edição
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Cache de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Arquivos Python (se tiver scripts)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos Latex (se gerar PDFs acadêmicos)
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.bbl
+*.blg
+
+# Build de documentos ou PDFs gerados
+/output/
+build/
+dist/
+*.pdf
+
+# Dados sensíveis ou arquivos grandes locais
+/data/
+*.rdf
+*.owl
+*.ttl
+*.nt
+
+# Configuração local
+.env
