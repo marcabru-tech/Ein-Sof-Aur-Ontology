@@ -1,1 +1,1 @@
-# Ein-Sof-Aur-Ontology-
+# Ein-Sof-Aur-Ontology
